@@ -1,0 +1,34 @@
+Write a function to find the longest common prefix string amongst an array of strings.
+If there is no common prefix, return an empty string "".
+ 
+Example 1:
+Input: strs = ["flower","flow","flight"]
+Output: "fl"
+Example 2:
+Input: strs = ["dog","racecar","car"]
+Output: ""
+Explanation: There is no common prefix among the input strings.
+
+
+Map<String ,Integer> map = new HashMap<>();
+Int count =0 ;
+Strs.sort();
+for(int i=0;i<strs.length;i++){
+    String Input = strs.subString(0,1);
+    for(int j=1;j<strs.lentgh;j++){
+		List<integer> index=new ArrayList<>();
+		if(strs.sbuString(0,1).equals(input){
+
+		index.add(i);
+		map.put(input, index);
+		}
+	}
+
+Check-: max length index in map;
+
+
+}
+
+
+A,{1,3,4,5,7}
+B,{2,9,12}
