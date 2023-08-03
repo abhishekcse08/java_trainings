@@ -1,0 +1,6 @@
+Stream API: is use to process collection of Objects
+MAP vs FlatMap
+
+map() method used for data transformation
+Flat Map(): used for transformation and Flattering
+flatmap()-> MAP+Flattering

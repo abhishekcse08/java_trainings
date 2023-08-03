@@ -1,0 +1,19 @@
+1-: The function or method through we can represent a anonymous function
+
+Parameter : ()    expression ->  { body};
+
+
+Lambda expresion only appliocatioble for functional interface
+Functional Interface-:
+Runnable,callable,comprable,comprator
+
+java 8 consumer,predicate,supplier these are predefined function interface
+
+consumer-: consumer<T> is an in built function which takes argument  consumer can be used in all context where an object needs
+to consumed i.e. taken as input and some operation to be performed on the object without returning result.
+in java 8 there is  a foreach method which takes input but does not return anything.
+
+Predicate-: this interface used to check conditional check
+where you can think it return true/false
+
+Suplier-: used in all context where there is no input but output required

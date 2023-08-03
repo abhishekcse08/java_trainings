@@ -1,0 +1,67 @@
+
+Introduction to Spring Boot
+    Understanding the Spring framework and its features
+    Advantages of using Spring Boot
+    Setting up the development environment
+    Getting Started with Spring Boot
+
+Creating a simple Spring Boot project
+    Spring Boot project structure
+    Running a Spring Boot application
+    Configuration and Properties
+
+Application configuration using application.properties or YAML files
+    Externalizing configuration with environment variables
+    Profiles and their use cases
+    Dependency Injection and IoC
+
+Understanding Dependency Injection and Inversion of Control (IoC)
+    Using Spring's annotations for dependency injection
+    Building RESTful APIs
+
+Creating RESTful endpoints with Spring Boot
+    Request and Response handling
+    Error handling and exception management
+    Data Access with Spring Boot
+
+Working with Spring Data JPA for database access
+    Defining and implementing data repositories
+    Transactions management
+    Security in Spring Boot
+
+Securing endpoints with Spring Security
+    Authentication and authorization
+    Configuring custom security rules
+    Testing Spring Boot Applications
+
+Writing unit tests and integration tests
+    Using Spring Test framework
+    Mocking dependencies in tests
+    Web Development with Thymeleaf
+
+Building web pages with Thymeleaf template engine
+    Integrating Thymeleaf with Spring Boot
+    Working with REST Clients
+
+Consuming external REST APIs using RestTemplate or WebClient
+    Handling responses and error scenarios
+    Caching in Spring Boot
+
+Understanding caching concepts and benefits
+    Integrating caching in Spring Boot applications
+    Actuators and Monitoring
+
+Enabling and configuring Spring Boot Actuator
+    Monitoring and managing applications
+    Handling Events with Spring Boot
+
+Implementing event-driven programming
+    Using Spring Application Events and listeners
+    Deployment and Packaging
+
+Packaging Spring Boot applications as JAR or WAR
+    Deploying Spring Boot applications to different environments
+    Microservices with Spring Boot (Optional)
+
+Introduction to microservices architecture
+    Building microservices using Spring Boot and Spring Cloud components
