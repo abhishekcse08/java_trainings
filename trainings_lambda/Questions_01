@@ -1,0 +1,31 @@
+Given a list of strings, use lambda expressions to filter out strings that start with the letter "A."
+
+Write a lambda expression to calculate the square of a given integer.
+
+Use lambda expressions to sort a list of integers in ascending order.
+
+Given a list of names, use lambda expressions to convert each name to uppercase.
+
+Implement a custom functional interface called MathOperation with a single method that takes two integers and returns their product. Use a lambda expression to implement this interface.
+
+Create a method that takes a list of integers and a predicate as arguments. The method should return a new list containing only the elements that satisfy the predicate.
+
+Given a list of strings, use lambda expressions to concatenate all the strings into a single comma-separated string.
+
+Write a lambda expression to check if a given string is a palindrome (reads the same backward as forward).
+
+Create a method that takes a list of integers and a function as arguments. The method should apply the function to each element of the list and return a new list containing the results.
+
+Given a list of names, use lambda expressions to count the number of names that have more than five characters.
+
+Implement a method that takes a list of integers and a binary operator function as arguments. The method should perform the binary operation on all elements of the list and return the final result.
+
+Use lambda expressions to find the average of a list of doubles.
+
+Given a list of strings, use lambda expressions to find the longest string in the list.
+
+Implement a method that takes a list of strings and a separator as arguments. The method should concatenate all the strings in the list using the separator.
+
+Use lambda expressions to remove all duplicate elements from a list of integers.
+
+Find the Nth Highest salary from employee class.
