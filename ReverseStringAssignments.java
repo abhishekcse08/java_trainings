@@ -1,4 +1,7 @@
- public static void main(String[] args) {
+public class ReverseStringAssignments {
+    public static void main(String[] args) {
+
+
         String s = "This is a hyderabad and hyderabad is a good place";
 
         ArrayList<Counts> ob = new ArrayList<>();  //  use arraylist to tack of word occurrences
@@ -26,14 +29,13 @@
         }
     }
 }
-    class Counts {
-        String word;
-        int count;
+class Counts {
+    String word;
+    int count;
 
-        public Counts(String word, int count) {
-            this.word = word;
-            this.count = count;
-        }
-
-
+    public Counts(String word, int count) {
+        this.word = word;
+        this.count = count;
     }
+    }
+}
